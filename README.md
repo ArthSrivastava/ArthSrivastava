@@ -11,7 +11,7 @@
 
 
 </p>
-<div size='20px'><h3> Hi! My name is Arth Srivastava. Thank You for taking the time to view my GitHub Profile :smile:</h3>  
+<div size='20px'><h3> Hi! My name is Arth Srivastava. I am music enthusiast with a passion for peaceful melodies, and a programmer at heart who loves creating and building innovative solutions. :smile:</h3>  
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 80px height='80px'></h2>
