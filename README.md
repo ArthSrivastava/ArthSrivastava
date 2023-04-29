@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning Microservices, OAuth2.0, Docker, Redux 
 
-- 👯 I’m looking to collaborate on hackathons 
+- 👯 I’m looking to collaborate in hackathons 
 
 - 💬 Talk to me about Back-end development,  Microservices, Spring Boot, React JS, Freelancing Opportunites, Open Source... 
   
