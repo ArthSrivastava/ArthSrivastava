@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on projects usiing Spring-Boot.
 
-- 🌱 I’m currently learning Microservices, Docker, Flask. 
+- 🌱 I’m currently learning Microservices, Docker. 
 
 - 👯 I’m looking for internships to enhance my skill set.
 
