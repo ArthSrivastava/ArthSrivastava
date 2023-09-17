@@ -11,7 +11,7 @@
 
 
 </p>
-<div size='20px'><h3> Hi! My name is Arth Srivastava. I am a music enthusiast with a passion for peaceful melodies, and a programmer at heart who loves creating and building innovative solutions. :smile:</h3>  
+<div size='20px'><h3> Hi! My name is Arth Srivastava. I am a music enthusiast with a passion for peaceful melodies, and a programmer at heart who loves creating and building innovative solutions. I have a special love for backend engineering. :smile:</h3>  
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 80px height='80px'></h2>
@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on projects usiing Spring-Boot.
 
-- 🌱 I’m currently learning Microservices, Docker. 
+- 🌱 I’m currently learning intermediate backend engineering concepts. 
 
 - 👯 I’m looking for internships to enhance my skill set.
 
