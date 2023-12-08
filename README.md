@@ -21,11 +21,11 @@
 
 - 🔭 I’m currently working on projects using Spring-Boot.
 
-- 🌱 I’m currently learning intermediate backend engineering concepts. 
+- 🌱 I’m currently learning AWS. 
 
 - 👯 I’m looking for internships to enhance my skill set.
 
-- 💬 Talk to me about Back-end development,  Microservices, Spring Boot, React JS, Freelancing Opportunites, Open Source... 
+- 💬 Talk to me about Back-end development, Spring Boot, React JS, Freelancing Opportunites, Open Source... 
   
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/ArthSrivastava?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
